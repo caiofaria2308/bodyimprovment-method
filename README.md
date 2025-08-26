@@ -18,6 +18,10 @@ Repositório: [https://github.com/caiofaria2308/bodyimprovment-method](https://g
      https://raw.githubusercontent.com/caiofaria2308/bodyimprovment-method/main/docs/bmad_nutrologo.md
    - Treinador:  
      https://raw.githubusercontent.com/caiofaria2308/bodyimprovment-method/main/docs/bmad_treinador.md
+   - Psicólogo:  
+     https://raw.githubusercontent.com/caiofaria2308/bodyimprovment-method/main/docs/bmad_psicologo.md
+   - Chef de Cozinha:  
+     https://raw.githubusercontent.com/caiofaria2308/bodyimprovment-method/main/docs/bmad_chef.md
    - Orquestrador:  
      https://raw.githubusercontent.com/caiofaria2308/bodyimprovment-method/main/docs/bmad_orquestrador.md
    - Prompt mestre:  
@@ -31,6 +35,7 @@ Repositório: [https://github.com/caiofaria2308/bodyimprovment-method](https://g
 1. Importe o conteúdo de [`prompt.md`](https://github.com/caiofaria2308/bodyimprovment-method/blob/main/prompt.md) ou forneça sua URL bruta.
 2. Siga as instruções do prompt para iniciar a conversa.
 3. Consulte os arquivos dos agentes para personalizar ou expandir as personalidades conforme necessário.
+4. O usuário pode acessar diretamente o Psicólogo ou o Chef de Cozinha para apoio emocional ou sugestões culinárias, além do fluxo tradicional mediado pelo Orquestrador.
 
 ## Observação
 
